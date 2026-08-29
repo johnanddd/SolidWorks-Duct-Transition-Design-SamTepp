@@ -13,6 +13,8 @@ The project required two custom transition components:
 
 The completed CAD models and supporting documentation were incorporated into the project’s customer submittal package.
 
+![SolidWorks Model](images/cad_model_image.PNG)
+
 ## CAD Design
 
 The models were created in SolidWorks using:
@@ -46,6 +48,8 @@ The goal was to make sure the new components would interface correctly with both
 
 The drawing below shows the type of engineering documentation used to verify dimensions and determine the required transition geometry. Identifying and proprietary information has been redacted for public display.
 
+![Mechanical Drawings](images/mechanical_drawings.PNG)
+
 ## Design Considerations
 
 Key design considerations included:
@@ -69,6 +73,8 @@ I produced rendered and annotated CAD documentation identifying:
 * Connection locations between new and existing components
 
 The resulting documentation was used in the project’s customer-facing engineering submittal.
+
+![Annotated SolidWorks Model](images/cad_model_image_with_annotations.jpg)
 
 ## Tools
 
